@@ -4,6 +4,8 @@
 
 This tool allows you to check the availability of Discord usernames and generate new ones using proxies. It leverages the Proxyscrape service for proxy support. Follow the instructions below to set up and use the tool.
 
+Probably the best checker of 2024. 😏
+
 ## Prerequisites 📁 
 
 1. Create an account on [Proxyscrape Dashboard](https://dashboard.proxyscrape.com/sign-up).
